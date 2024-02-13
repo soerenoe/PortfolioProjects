@@ -43,7 +43,7 @@ GROUP BY TermReason
 ORDER BY count DESC
 
   
---Equality areas--
+--Inequalities in salary--
   
 --Looking at salary difference between men and women in the same position - equality efforts
 SELECT position,
